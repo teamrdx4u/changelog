@@ -1,6 +1,6 @@
-# DAB Changelog React App
 
-A React-based changelog website for DAB Music Player that fetches release data and issues from GitHub, with secure API key storage via Infisical.
+
+A React-based changelog website that fetches release data and issues from GitHub, with secure API key storage via Infisical.
 
 ## Features
 
@@ -98,3 +98,4 @@ website-react/
 ├── package.json
 └── vite.config.js
 ```
+
